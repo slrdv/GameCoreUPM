@@ -1,0 +1,14 @@
+{
+    "name": "com.slrdv.gamecore.eventbus",
+    "rootNamespace": "GameCore.EventBus",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

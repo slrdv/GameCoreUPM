@@ -1,0 +1,22 @@
+{
+  "name": "com.slrdv.gamecore.eventbus",
+  "version": "1.0.0",
+  "displayName": "GameCore.EventBus",
+  "description": "Event bus system",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "hideInEditor": false,
+  "type": "library",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "eventbus",
+    "events",
+    "messaging",
+    "decoupling"
+  ],
+  "author": {
+    "name": "slrdv",
+    "url": "https://github.com/slrdv/GameCoreUPM"
+  }
+}

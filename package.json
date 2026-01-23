@@ -1,0 +1,18 @@
+{
+  "name": "com.slrdv.gamecore",
+  "version": "1.0.0",
+  "displayName": "GameCore",
+  "description": "Game core systems",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "hideInEditor": false,
+  "type": "library",
+  "license": "MIT",
+  "dependencies": {},
+
+  "keywords": ["core", "system"],
+  "author": {
+    "name": "slrdv",
+    "url": "https://github.com/slrdv/GameCoreUPM"
+  }
+}
