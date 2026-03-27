@@ -35,7 +35,9 @@ namespace GameCore.EventBus {
 
         public void Release(PooledEvent evt) {
             if (_disposed) return;
-
+            
+            evt.Reset();
+            
             if (!_pools.TryGetValue(evt.TypeId, out var pool)) {
                 pool = new Stack<PooledEvent>(INITIAL_CAPACITY);
                 _pools[evt.TypeId] = pool;
